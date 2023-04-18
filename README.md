@@ -84,3 +84,25 @@ As melhores práticas em relação a come construir o código legível são paut
 
 
 - Google Java Style Guide: https://google.github.io/styleguide/javaguide.html
+
+#
+## Operadores Aritiméticos
+
+    A abreviação de operadores aritiméticos pode ser realizada através 
+
+# 
+
+## Tipos primitivos e seus respctivos limites.
+
+- boolean
+- char
+- byte
+- short
+- int
+- short
+- float
+- double
+
+#
+
+## Promoção aritmética
