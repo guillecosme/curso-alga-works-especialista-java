@@ -67,3 +67,20 @@ Este software ao compilar o arquivo java irá gerar um arquivo de extensão .cla
 
 
 ``` git remote set-url origin https://github.com/guillecosme/curso-alga-works-especialista-java.git ```.....
+
+
+git remote -v
+
+git show-ref
+
+git remote set-url
+
+git remote remove origin
+
+#
+## Convenções Código
+
+As melhores práticas em relação a come construir o código legível são pautadas nas documentações oficiais da comunidade. Assim como o python possui o PEP8, o java possui a sua documentação e guia oficial.
+
+
+- Google Java Style Guide: https://google.github.io/styleguide/javaguide.html
